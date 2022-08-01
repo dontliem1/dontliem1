@@ -1,22 +1,13 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+  <img src="./name.svg" alt="Mikhail Vorobyov" />
 </h1>
 
-## Hey! 👋
-I'm Marton, a 18 years old web developer from Hungary.
-
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
-
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
+Hi! I'm a web developer from Tyumen. I believe that the web should be helpful and accessible to everybody, and I choose jobs and projects according to this belief. I develop and teach at international education online platform [Practicum](http://practicum.com/). And I lead a small tech team at design [Lepekhin Studio](https://lepekhin.studio).
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- 👨‍💻 HTML, CSS, A11y, JavaScript, TypeScript
+- ⚙️ 11ty, React, Next.js, Winter CMS
+— 🌐 PHP, Node.js
+- 💾 MySQL, PostgreSQL
 
-## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](https://twitter.com/instagram) on Instagram
-- [Marton#6513](./) on Discord
+You can write me to hello@internet.ru
